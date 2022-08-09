@@ -15,7 +15,7 @@
 ## 💲 Favorite cryptocurrencies
 ![Monero](https://img.shields.io/badge/monero-FF6600?style=for-the-badge&logo=monero&logoColor=white) ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white) ![Litecoin](https://img.shields.io/badge/Litecoin-A6A9AA?style=for-the-badge&logo=Litecoin&logoColor=white)
 
-## 🌐 Socials
+## 🌐 Social
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCtZJmfRmcz6f6MDb9oK5z2A)
 
 ## 💻 Tech Stack
