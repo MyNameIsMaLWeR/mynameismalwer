@@ -5,15 +5,15 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic&style=for-the-badge" alt="MyNameIsMaLWeR" /> </p>
 
-## 💳 Github Profile Summary Card
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MyNameIsMaLWeR&theme=vue"/>
-</p>
-
 ## 📟 GitHub Stats
 <p align="center">
 	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=MyNameIsMaLWeR&show_icons=true&theme=vue" />
 	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MyNameIsMaLWeR&theme=vue" />
+</p>
+
+## 💳 Github Profile Summary Card
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MyNameIsMaLWeR&theme=vue"/>
 </p>
 
 ## 📈 Activity Graph
