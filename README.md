@@ -5,12 +5,22 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic&style=for-the-badge" alt="MyNameIsMaLWeR" /> </p>
 
+## 💳 Github Profile Summary Card
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MyNameIsMaLWeR&theme=vue"/>
+</p>
+
 ## 📟 GitHub Stats
 <p align="center">
-	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=MyNameIsMaLWeR&show_icons=true&title_color=20C20E&icon_color=20C20E&text_color=20C20E&bg_color=0,000000,000000" />
-	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mynameismalwer&theme=hacker&hide_border=true" />
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=MyNameIsMaLWeR&show_icons=true&theme=vue" />
+	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MyNameIsMaLWeR&theme=vue" />
 </p>
-	
+
+## 📈 Activity Graph
+<p align="center">
+	<img src="https://activity-graph.herokuapp.com/graph?username=MyNameIsMaLWeR&theme=minimal"/>
+</p>
+
 # 💫 About Me :
 - 🌱 I’m currently learning more about BlockChain.
 - 🤔 I’m looking for help with VelocityX documentation.
@@ -34,16 +44,6 @@
 
 ## 🎵 Music apps I use
 <img src="https://img.shields.io/badge/apple%20music-F34E68?style=for-the-badge&logo=apple%20music&logoColor=white"/> <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/> <img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white"/>
-
-## 📈 Activity Graph
-<p align="center">
-	<img src="https://activity-graph.herokuapp.com/graph?username=MyNameIsMaLWeR&theme=minimal"/>
-</p>
-
-## 💳 Github Profile Summary Card
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MyNameIsMaLWeR&theme=vue"/>
-</p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MyNameIsMaLWeR&icon=0&color=1)](https://visitcount.itsvg.in)
