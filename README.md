@@ -5,12 +5,10 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic&style=for-the-badge" alt="MyNameIsMaLWeR" /> </p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=MyNameIsMaLWeR&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=20C20E&icon_color=20C20E&text_color=20C20E&bg_color=0,000000,000000" alt="MaLWeR's Github Stats">
-
 ## 📟 GitHub Stats
 <p align="center">
-	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=MyNameIsMaLWeR&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,000000" />
-	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MyNameIsMaLWeR&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" />
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=MyNameIsMaLWeR&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=20C20E&icon_color=20C20E&text_color=20C20E&bg_color=0,000000,000000" />
+	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mynameismalwer&theme=hacker&hide_border=true" />
 </p>
 	
 # 💫 About Me :
