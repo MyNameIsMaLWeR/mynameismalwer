@@ -4,6 +4,7 @@
          width="45" /> I'm MaLWeR</h1>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic&style=for-the-badge" alt="MyNameIsMaLWeR" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=MyNameIsMaLWeR&label=Views&color=blue&style=plastic&style=for-the-badge" alt="MyNameIsMaLWeR" /> </p>
 
 <div align="center">
 	
