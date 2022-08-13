@@ -3,7 +3,9 @@
          height="45"
          width="45" /> I'm MaLWeR</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic&style=for-the-badge" alt="iampawan" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic&style=for-the-badge" alt="iampawan" /> </p>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Coho04&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="_Coho04_'s Github Stats">
 
 # 💫 About Me :
 - 🌱 I’m currently learning more about BlockChain.
