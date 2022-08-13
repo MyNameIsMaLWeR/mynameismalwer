@@ -5,8 +5,12 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic&style=for-the-badge" alt="MyNameIsMaLWeR" /> </p>
 
+<div align="center">
+	
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=MyNameIsMaLWeR&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="MaLWeR's Github Stats">
 
+</div>
+	
 # 💫 About Me :
 - 🌱 I’m currently learning more about BlockChain.
 - 🤔 I’m looking for help with VelocityX documentation.
